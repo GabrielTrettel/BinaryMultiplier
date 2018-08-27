@@ -1,0 +1,6 @@
+
+State Machine - |binary_multiplier|state
+Name state.MUL1 state.MUL0 state.IDLE 
+state.IDLE 0 0 0 
+state.MUL0 0 1 1 
+state.MUL1 1 0 1 

@@ -1,0 +1,93 @@
+# do binary_multiplier_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying /home/ufabc/altera/13.0sp1/modelsim_ase/linux/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied /home/ufabc/altera/13.0sp1/modelsim_ase/linux/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {/home/ufabc/Documentos/binary_multiplier.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity binary_multiplier
+# -- Compiling architecture behavior_4 of binary_multiplier
+# 
+vcom -reportprogress 300 -work work /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity binary_multiplier_vhd_tst
+# -- Compiling architecture binary_multiplier_arch of binary_multiplier_vhd_tst
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(60): near "KEY": expecting <= or :=
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(78): Target type ieee.std_logic_1164.STD_ULOGIC in signal assignment is different from expression type.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(91): Target type ieee.std_logic_1164.STD_ULOGIC in signal assignment is different from expression type.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(100): (vcom-1272) Length of expected is 8; length of actual is 4.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(118): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity binary_multiplier_vhd_tst
+# -- Compiling architecture binary_multiplier_arch of binary_multiplier_vhd_tst
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(60): near "KEY": expecting <= or :=
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(78): Target type ieee.std_logic_1164.STD_ULOGIC in signal assignment is different from expression type.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(91): Target type ieee.std_logic_1164.STD_ULOGIC in signal assignment is different from expression type.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(118): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity binary_multiplier_vhd_tst
+# -- Compiling architecture binary_multiplier_arch of binary_multiplier_vhd_tst
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(60): near "KEY": expecting <= or :=
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(78): Target type ieee.std_logic_1164.STD_ULOGIC in signal assignment is different from expression type.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(91): Target type ieee.std_logic_1164.STD_ULOGIC in signal assignment is different from expression type.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(118): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity binary_multiplier_vhd_tst
+# -- Compiling architecture binary_multiplier_arch of binary_multiplier_vhd_tst
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(60): near "KEY": expecting <= or :=
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(78): Target type ieee.std_logic_1164.STD_ULOGIC in signal assignment is different from expression type.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(118): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity binary_multiplier_vhd_tst
+# -- Compiling architecture binary_multiplier_arch of binary_multiplier_vhd_tst
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(60): near "KEY": expecting <= or :=
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(78): Target type ieee.std_logic_1164.STD_ULOGIC in signal assignment is different from expression type.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(118): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity binary_multiplier_vhd_tst
+# -- Compiling architecture binary_multiplier_arch of binary_multiplier_vhd_tst
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(60): near "KEY": expecting <= or :=
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(78): Target type ieee.std_logic_1164.STD_ULOGIC in signal assignment is different from expression type.
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(118): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity binary_multiplier_vhd_tst
+# -- Compiling architecture binary_multiplier_arch of binary_multiplier_vhd_tst
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(60): near "KEY": expecting <= or :=
+# ** Error: /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht(118): VHDL Compiler exiting
