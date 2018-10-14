@@ -1,0 +1,61 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/ufabc/Documentos/simulation/modelsim
+Ebinary_multiplier
+Z1 w1535402492
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 d/home/ufabc/Documentos/simulation/modelsim
+Z6 8/home/ufabc/Documentos/binary_multiplier.vhd
+Z7 F/home/ufabc/Documentos/binary_multiplier.vhd
+l0
+L10
+V68Tm66hX:]66DcoDIZ9CB3
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1535403367.247115
+Z10 !s90 -reportprogress|300|-93|-work|work|/home/ufabc/Documentos/binary_multiplier.vhd|
+Z11 !s107 /home/ufabc/Documentos/binary_multiplier.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 aNnJ@mmXNMaiE6g3F2<9D0
+!i10b 1
+Abehavior_4
+R2
+R3
+R4
+DEx4 work 17 binary_multiplier 0 22 68Tm66hX:]66DcoDIZ9CB3
+l23
+L18
+VKFC0D1Y]3Yhi6PATA5Je91
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 zAaP?OfHIz_6V;g7gZ85e1
+!i10b 1
+Ebinary_multiplier_vhd_tst
+w1535403493
+R3
+R4
+R5
+8/home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht
+F/home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht
+l0
+L30
+VmFl]NP8?V7FY`?nUBCB7@1
+!s100 M0O3?kKb=Omm4ZU6lGig=3
+R8
+32
+!i10b 1
+!s108 1535403493.936224
+!s90 -reportprogress|300|-work|work|/home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht|
+!s107 /home/ufabc/Documentos/simulation/modelsim/binary_multiplier.vht|
+o-work work -O0
+R13
